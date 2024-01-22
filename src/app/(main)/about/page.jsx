@@ -22,7 +22,7 @@ const AboutPage = ({ params }) => {
         alt="loremflickr"
 			/>
 
-			<div className="bg-primary">Hello</div>
+			
 
 
 		</div>
